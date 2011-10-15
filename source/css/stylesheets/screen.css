@@ -67,36 +67,34 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   display: block;
 }
 
-/* line 15, ../sass/screen.sass */
+/* line 13, ../sass/screen.sass */
 body {
   height: 100%;
 }
 
-/* line 19, ../sass/screen.sass */
+/* line 17, ../sass/screen.sass */
 #container {
   height: 100%;
 }
 
-/* line 22, ../sass/screen.sass */
+/* line 20, ../sass/screen.sass */
 #main {
   font-family: Helvetica;
   color: red;
   font-size: 33px;
   overflow: auto;
   padding-bottom: 200px;
-  width: 500px;
   margin: 0 auto;
-  background-color: black;
-  color: white;
+  color: black;
 }
 
-/* line 31, ../sass/screen.sass */
+/* line 27, ../sass/screen.sass */
 header {
   background-color: #3b6e8e;
   height: 200px;
 }
 
-/* line 35, ../sass/screen.sass */
+/* line 31, ../sass/screen.sass */
 footer {
   position: relative;
   margin-top: 200px;
