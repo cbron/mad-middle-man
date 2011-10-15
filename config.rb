@@ -1,7 +1,10 @@
 ### 
 # Compass
 ###
+require 'rubygems'
+require 'middleman'
 
+run Middleman::Server
 # Susy grids in Compass
 # First: gem install compass-susy-plugin
 # require 'susy'
