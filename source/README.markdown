@@ -1,1 +1,0 @@
-This is the HTML5 boilerplate edition of middleman with compass built in and a 960 grid thrown in for fun. This will stay as a base for new static web projects.
