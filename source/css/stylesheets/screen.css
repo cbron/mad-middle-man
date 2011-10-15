@@ -67,21 +67,20 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   display: block;
 }
 
-/* line 13, ../sass/screen.sass */
+/* line 12, ../sass/screen.sass */
 body {
+  font-size: 1.5em;
+  font-family: "Lato", sans-serif;
   height: 100%;
 }
 
-/* line 17, ../sass/screen.sass */
+/* line 18, ../sass/screen.sass */
 #container {
   height: 100%;
 }
 
-/* line 20, ../sass/screen.sass */
+/* line 21, ../sass/screen.sass */
 #main {
-  font-family: Helvetica;
-  color: red;
-  font-size: 33px;
   overflow: auto;
   padding-bottom: 200px;
   margin: 0 auto;
