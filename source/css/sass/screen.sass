@@ -4,6 +4,7 @@
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 
 @import "compass/reset"
+@import "fancy-buttons"
 
 =main-font
   font-size: 1.5em
@@ -13,7 +14,8 @@ body
   +main-font
   height: 100%
 
-
+button
+  @include fancy-button(#2966a8)
 
 #container
   height: 100%
@@ -27,6 +29,7 @@ body
 header
   background-color: #3b6e8e
   height: 200px
+  color: white
 
 footer
   position: relative
@@ -34,4 +37,5 @@ footer
   background-color: #3b6e8e
   height: 200px
   clear: both
+  color: white
 
